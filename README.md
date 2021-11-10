@@ -31,7 +31,7 @@ Fique livre para definir a regra de aplicação
 - Ex: 10% do valor total
 - Ex2: Fazer por type de produto, tipo A possui 5% e tipo B possui 15%
 
-Sendo responsável pelas seguintes ações:
+Sendo responsável pelas seguintes ações:-
 - Recebe os dados via API
 - Faz o processamento dos dados
 - Faz uma nova requisição para uma API externa de cashback da MaisTODOS
